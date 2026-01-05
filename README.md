@@ -1,6 +1,6 @@
 ### Hi there 👋, Md. Noman Hasan
 #### I am a Front-End Developer with 2+ years of experience specializing in AngularJS & TypeScript. 
-![I am a Front-End Developer with 2+ years of experience specializing in AngularJS & TypeScript. ](https://media.licdn.com/dms/image/v2/D5616AQHh-6HmNKfOiQ/profile-displaybackgroundimage-shrink_350_1400/B56ZsxKL54KIAc-/0/1766056313453?e=1767830400&v=beta&t=HqI5ZJdJSPgIxasYCKOqI9eQFDIrNHCRLXxOTp76iCA)
+![I am a Front-End Developer with 2+ years of experience specializing in AngularJS & TypeScript. ](https://media.licdn.com/dms/image/v2/D5616AQHuoSz2JcQGxw/profile-displaybackgroundimage-shrink_350_1400/B56ZuINcMFGsAY-/0/1767516784252?e=1769040000&v=beta&t=t4IxurS0AQfaZgQXkcuRxjFXw5orkfPCckvBvBzR6h8)
 
 I am a Front-End Developer with 2 years of experience specializing in AngularJS and modern JavaScript. I have worked on building responsive and user-friendly web applications with clean, maintainable code. I enjoy learning new technologies and collaborating with teams to deliver high-quality products. Currently, I am open to opportunities where I can further grow my skills and contribute to exciting projects.
 
