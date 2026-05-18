@@ -68,7 +68,7 @@ I focus on **clean architecture, maintainable UI systems, performance, and long-
 
 <p align="center">
   <a href="mailto:eng.nomanhasan@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/md-noman-hasan-88a727171/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
