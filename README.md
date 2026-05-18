@@ -1,53 +1,117 @@
-<!-- ================= HERO ================= -->
-
-<h1 align="center">Hi, I'm Md. Noman Hasan 👋</h1>
-
-<h3 align="center">
-  Front-End Developer | AngularJS | TypeScript | JavaScript
-</h3>
+<!-- HERO HEADER -->
+<h1 align="center">Md. Noman Hasan</h1>
 
 <p align="center">
-  I build responsive, scalable, and user-focused web applications with clean and maintainable code.
+Senior Frontend Developer • Angular Specialist • TypeScript Engineer
 </p>
 
 <p align="center">
-  <a href="mailto:eng.nomanhasan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eng.nomanhasan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-noman-hasan-88a727171/">
-    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Noman%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Noman-Hasan-Dev">
-    <img src="https://img.shields.io/badge/GitHub-Noman--Hasan--Dev-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Noman-Hasan-Dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Angular+Frontend+Engineer;Building+Scalable+Web+Applications;TypeScript+Specialist;Clean+Architecture+Advocate" />
+</a>
 </p>
 
 ---
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHuoSz2JcQGxw/profile-displaybackgroundimage-shrink_350_1400/B56ZuINcMFGsAY-/0/1767516784252?e=1771459200&v=beta&t=kLY8GUlkNYLoEFB9q2c1XWzqGCPxM4lp64b6qZqmt7A" width="100%" alt="Md. Noman Hasan Banner" />
+# 👨‍💻 Professional Summary
+
+Frontend Developer with **2+ years of experience building production-grade web applications** using Angular and modern JavaScript technologies.
+
+Focused on **clean architecture, scalable UI systems, performance optimization, and maintainable codebases**.
+
+Currently working on real-world production systems and continuously expanding into **backend engineering with Node.js**.
 
 ---
 
-## About Me
+# 🚀 Current Focus
 
-I am a **Front-End Developer** with **2+ years of experience** specializing in **AngularJS, TypeScript, JavaScript, HTML, CSS, and Bootstrap**.
+• Scalable Angular architecture  
+• Advanced RxJS patterns  
+• Frontend performance optimization  
+• Clean component architecture  
+• Backend development with Node.js  
 
-I enjoy turning ideas into polished web experiences that are responsive, accessible, and easy to maintain. My focus is on writing clean code, improving UI quality, and building interfaces that feel smooth for real users.
+---
 
-Currently, I work at **Desh Universal Private Ltd** and I am expanding my backend skills with **Node.js** and **Express.js**.
+# 🧠 Tech Stack
 
-```ts
-const nomanHasan = {
-  role: "Front-End Developer",
-  experience: "2+ years",
-  company: "Desh Universal Private Ltd",
-  location: "Bangladesh",
-  coreStack: ["AngularJS", "TypeScript", "JavaScript", "HTML", "CSS", "Bootstrap"],
-  learning: ["Node.js", "Express.js"],
-  focus: ["Clean Code", "Responsive UI", "Maintainable Architecture", "Team Collaboration"],
-  openTo: ["Frontend Roles", "Web Projects", "Collaboration", "Learning Opportunities"]
-};
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
+</p>
+
+### Backend (Learning)
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noman-Hasan-Dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noman-Hasan-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Development Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noman-Hasan-Dev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Noman-Hasan-Dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Noman-Hasan-Dev/Noman-Hasan-Dev/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+📧 Email  
+eng.nomanhasan@gmail.com  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/md-noman-hasan-88a727171/
+
+💻 GitHub  
+https://github.com/Noman-Hasan-Dev
+
+</p>
+
+---
+
+# ⚡ Philosophy
+
+> Great software is built with **clarity, scalability, and long-term maintainability** in mind.
+
+---
+
+⭐ If you find my work interesting, consider **following my GitHub** or **starring my repositories**.
