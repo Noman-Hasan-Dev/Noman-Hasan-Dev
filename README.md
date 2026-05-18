@@ -2,7 +2,7 @@
 <h1 align="center">Md. Noman Hasan</h1>
 
 <p align="center">
-Senior Frontend Developer • Angular Specialist • TypeScript Engineer
+Angular Developer • Angular Specialist • TypeScript Engineer
 </p>
 
 <p align="center">
@@ -55,15 +55,17 @@ Currently working on real-world production systems and continuously expanding in
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noman-Hasan-Dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noman-Hasan-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Noman-Hasan-Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noman-Hasan-Dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Noman-Hasan-Dev&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
