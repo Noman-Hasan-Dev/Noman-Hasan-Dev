@@ -91,21 +91,19 @@ Currently working on real-world production systems and continuously expanding in
 
 ---
 
-# 🌐 Connect With Me
+## 🌍 Connect With Me
 
-<p>
-
-📧 Email  
-eng.nomanhasan@gmail.com  
-
-💼 LinkedIn  
-https://www.linkedin.com/in/md-noman-hasan-88a727171/
-
-💻 GitHub  
-https://github.com/Noman-Hasan-Dev
-
+<p align="center">
+  <a href="mailto:eng.nomanhasan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-noman-hasan-88a727171/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Noman-Hasan-Dev">
+    <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 # ⚡ Philosophy
