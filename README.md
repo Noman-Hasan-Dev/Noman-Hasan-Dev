@@ -1,28 +1,88 @@
-### Hi there 👋, Md. Noman Hasan
-#### I am a Front-End Developer with 2+ years of experience specializing in AngularJS & TypeScript. 
-![I am a Front-End Developer with 2+ years of experience specializing in AngularJS & TypeScript. ](https://media.licdn.com/dms/image/v2/D5616AQHuoSz2JcQGxw/profile-displaybackgroundimage-shrink_350_1400/B56ZuINcMFGsAY-/0/1767516784252?e=1771459200&v=beta&t=kLY8GUlkNYLoEFB9q2c1XWzqGCPxM4lp64b6qZqmt7A)
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Md. Noman Hasan</h1>
+<h3 align="center">Frontend Developer | Angular Specialist | TypeScript</h3>
 
-I am a Front-End Developer with 2 years of experience specializing in AngularJS and modern JavaScript. I have worked on building responsive and user-friendly web applications with clean, maintainable code. I enjoy learning new technologies and collaborating with teams to deliver high-quality products. Currently, I am open to opportunities where I can further grow my skills and contribute to exciting projects.
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Angular+Developer;Frontend+Engineer;TypeScript+Specialist;Building+Scalable+Web+Apps" />
+</a>
+</p>
 
-Skills: Angular JS / TypeScript / JS / HTML / CSS/ Bootstrap v5.0
+---
 
-- 🔭 I’m currently working on Desh Universal Private Ltd 
-- 🌱 I’m currently learning Node.js & Express.js 
-- 👯 I’m looking to collaborate on I’m open to collaborating on team-based projects, contributing to clean, scalable, and maintainable code while working effectively with cross-functional teams. 
-- 🤔 I’m looking for help with I’m looking for help with feature enhancements, code quality improvements, and applying best practices across the project. 
-- 💬 Ask me about I am a Front-End Developer with 2 years of experience specializing in AngularJS and modern JavaScript. I have worked on building responsive and user-friendly web applications with clean, maintainable code. I enjoy learning new technologies and collaborating with teams to deliver high-quality products. Currently, I am open to opportunities where I can further grow my skills and contribute to exciting projects. 
-- 📫 How to reach me: ## How to reach me  I’m open for collaboration, suggestions, and feedback:  - **Email:** eng.nomanhasan@gmail.com    - **LinkedIn:** [https://www.linkedin.com/in/md-noman-hasan-88a727171/] 
-- ⚡ Fun fact: **⚡ Fun fact:** I enjoy turning complex problems into clean, maintainable code. 
+# 👨‍💻 About Me
 
+- 💼 Front-End Developer with **2+ years of professional experience**
+- ⚡ Specialized in **Angular, TypeScript, and modern JavaScript**
+- 🏢 Currently working at **Desh Universal Private Ltd**
+- 🌱 Learning **Node.js & Express.js**
+- 🎯 Passionate about **clean architecture and scalable frontend systems**
+- 🤝 Open for **collaboration and innovative web projects**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Noman-Hasan-Dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-noman-hasan-88a727171//)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+# 🚀 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noman-Hasan-Dev)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noman-Hasan-Dev&show_icons=true&count_private=true)  
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,nodejs,git,github,vscode" />
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Noman-Hasan-Dev/contributions?format=svg&private=true)  
+</p>
 
+---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noman-Hasan-Dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noman-Hasan-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noman-Hasan-Dev&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Noman-Hasan-Dev/Noman-Hasan-Dev/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:eng.nomanhasan@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-noman-hasan-88a727171/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Noman-Hasan-Dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 I enjoy turning **complex problems into clean, scalable and maintainable code.**
+
+---
+
+⭐ If you like my work, consider **starring my repositories** or **following me**.
